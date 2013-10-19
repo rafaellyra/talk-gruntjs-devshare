@@ -1,0 +1,11 @@
+.reveal section dl { text-align: left; }
+.reveal section dt {
+	font-size: 0.8em;
+	font-weight: bolder;
+	margin-top: 0.5em;
+}
+.reveal section dd{
+	font-size: 0.7em;
+	font-weight: lighter;
+	text-indent: 1em;
+}
